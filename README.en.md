@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 089
+# 🦁 XXD Panel 089｜Everyday Vignette Notebook
 
 ### Edit the photograph into a relaxed, mature private-life journal page
 

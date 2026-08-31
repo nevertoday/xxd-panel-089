@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 089
+# 🦁 XXD Panel 089｜일상 소품 노트
 
 ### 사진을 여유롭고 성숙한 개인 생활 다이어리로 편집합니다
 

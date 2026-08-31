@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 089
+# 🦁 XXD Panel 089｜暮らしの小品帳
 
 ### 写真を、力の抜けた成熟した私的な暮らしの手帳へ
 

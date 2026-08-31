@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 089
+# 🦁 XXD Panel 089｜生活小品簿
 
 ### 把照片编辑成一页松弛而成熟的私人生活手账
 
