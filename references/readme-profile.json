@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 089｜Everyday Vignette Notebook: breaks a photo into a page of separate hand-drawn lifestyle spot illustrations — one main vignette carrying the story, plus a few floating fragments such as a gesture, a plant, a cup or a chance object, with no full background or shared perspective — drawn in loose, slightly shaky lines with watercolour, coloured pencil and a little oil pastel that cross lines and let paper show, in the photo's brightest colours softened on bright warm-white paper, scattered at varied sizes with generous whitespace and short handwritten notes. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-089 or asks for journal spot illustrations, scattered lifestyle doodles or watercolour planner-page art from a photo.",
+  "short_description": "生活小品簿：把照片拆成一个主角和几片漂浮的生活小插画，排成一页松弛的私人手账",
+  "zh-CN": {
+    "name": "生活小品簿",
+    "tagline": "把照片拆成一个主角和几片生活小碎片，排成一页松弛的私人手账。",
+    "look": "画面不是一整幅场景，而是一组独立的小插画：一个主角单元讲主要故事，周围漂着几片从照片里挑出的碎片，比如一个动作、一盆植物、一只杯子、一块点心、一件衣服或一个建筑细节，没有完整背景，也不共用透视。线条纤细松散、略带手抖，用水彩、彩铅和一点粉蜡笔上色，会越线、没涂满，看得见纸底和铅笔颗粒。颜色取照片里最亮的那几种，柔化成清澈蓝、湖水青、嫩绿、奶油黄、杏桃橙、珊瑚粉、柔紫，铺在明亮的暖白纸上。小插画大小高低错落、留白很多，中间夹着随手写的小字和几颗小星星、短线或圆点。",
+    "traits": [
+      "一个主角",
+      "少量生活碎片",
+      "漂浮散点",
+      "松散手绘线",
+      "水彩彩铅与粉蜡笔",
+      "成熟留白"
+    ],
+    "good": [
+      "细节丰富的日常照片：早餐桌、书桌一角、阳台上的植物和杯子",
+      "有一个主角和几样随身物的画面：野餐的人和篮子、逛市集的人和买到的东西",
+      "旅行中的小发现：咖啡馆、花店门口、街边小摊"
+    ],
+    "poor": [
+      "需要完整场景和统一透视的照片：建筑全景、城市天际线、风景大片",
+      "主体单一、没有可拆细节的照片：纯色背景前的证件照、单色产品图",
+      "想要规则宫格、贴纸 UI、粗黑描边或儿童卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Everyday Vignette Notebook",
+    "tagline": "Breaks your photo into one main vignette and a few small everyday fragments, laid out as a relaxed journal page.",
+    "look": "Instead of one full scene, you get a set of separate small illustrations: one main vignette tells the story, and a few fragments picked from the photo float around it, such as a gesture, a plant, a cup, a pastry, a piece of clothing or a building detail, with no complete background and no shared perspective. Lines are thin, loose and a little shaky, coloured with watercolour, coloured pencil and a touch of oil pastel that cross the lines, stop short and let paper and pencil grain show. Colours are the photo's brightest, softened into clear blue, lake teal, fresh green, butter yellow, apricot, coral and soft violet on bright warm-white paper. The pieces vary in size and height with lots of white space, and small handwritten notes sit between them with a few little stars, dashes or dots.",
+    "traits": [
+      "One main subject",
+      "A few life fragments",
+      "Floating scatter",
+      "Loose hand-drawn line",
+      "Watercolour, pencil and pastel",
+      "Mature whitespace"
+    ],
+    "good": [
+      "Everyday photos rich in small things: a breakfast table, a corner of a desk, plants and a cup on a balcony",
+      "A main subject with a few belongings: someone picnicking with a basket, a market shopper and their finds",
+      "Small discoveries on a trip: a café, a flower shop doorway, a street stall"
+    ],
+    "poor": [
+      "Photos that need a full scene and single perspective: building panoramas, city skylines, sweeping landscapes",
+      "Single-subject photos with nothing to break out: ID photos on plain backgrounds, one-colour product shots",
+      "Requests for a neat grid, sticker UI, thick black outlines or a children's cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "暮らしの小品帳",
+    "tagline": "写真を一人の主役と暮らしの小さな断片に分け、力の抜けた私的な手帳の一頁に並べます。",
+    "look": "一枚の場面ではなく、独立した小さなイラストの集まりです。主役のひとまとまりが物語を語り、そのまわりに写真から選んだ断片、たとえば一つの仕草、鉢植え、カップ、お菓子、服、建物の細部などが漂います。背景は描き込まず、遠近もそろえません。線は細くゆるく、少し手が震えていて、水彩、色鉛筆、少しのオイルパステルで塗り、はみ出したり塗り残したりして、紙の地や鉛筆の粒子が見えます。色は写真でいちばん明るい色を、澄んだ青、湖の青緑、若草色、バターイエロー、アプリコット、コーラル、柔らかな紫にやわらげ、明るく温かな白い紙に置きます。小さな絵は大小や高低を変えて散らばり、余白は広く、その間に手書きの短いメモと小さな星や短い線、点が入ります。",
+    "traits": [
+      "主役は一つ",
+      "少しの暮らしの断片",
+      "漂うように散らす",
+      "ゆるい手描きの線",
+      "水彩・色鉛筆・パステル",
+      "大人の余白"
+    ],
+    "good": [
+      "細かな物が多い日常の写真：朝食のテーブル、机の一角、ベランダの植物とカップ",
+      "主役と身の回りの物がある場面：かごを持ってピクニックする人、市場で買い物をした人とその品",
+      "旅先の小さな発見：カフェ、花屋の店先、通りの屋台"
+    ],
+    "poor": [
+      "場面全体と統一した遠近が必要な写真：建物の全景、都市のスカイライン、雄大な風景",
+      "主役一つきりで分けられる細部のない写真：無地の背景の証明写真、単色の商品写真",
+      "整ったグリッド、ステッカーの UI、太い黒の輪郭、子ども向けの漫画を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "일상 소품 노트",
+    "tagline": "사진을 주인공 하나와 일상의 작은 조각 몇 개로 나눠, 여유로운 개인 다이어리 한 장으로 배치합니다.",
+    "look": "한 장의 완성된 장면이 아니라 따로따로인 작은 일러스트 묶음입니다. 주인공 한 덩어리가 중심 이야기를 맡고, 그 주위에 사진에서 고른 조각들, 예를 들어 하나의 동작, 화분, 컵, 디저트, 옷, 건물의 세부 같은 것이 떠다닙니다. 배경은 그리지 않고 원근도 맞추지 않습니다. 선은 가늘고 느슨하며 조금 떨리고, 수채, 색연필, 약간의 오일 파스텔로 칠해 선을 넘거나 덜 칠해져 종이 바탕과 연필 입자가 보입니다. 색은 사진에서 가장 밝은 색을 맑은 파랑, 호수 청록, 연두, 버터 옐로, 살구, 코랄, 연보라로 누그러뜨려 밝고 따뜻한 흰 종이에 얹습니다. 작은 그림들은 크기와 높낮이를 달리하며 흩어지고 여백이 넓으며, 그 사이에 짧은 손글씨 메모와 작은 별, 짧은 선, 점 몇 개가 들어갑니다.",
+    "traits": [
+      "주인공 하나",
+      "일상의 작은 조각",
+      "떠다니듯 흩어 놓기",
+      "느슨한 손그림 선",
+      "수채·색연필·파스텔",
+      "성숙한 여백"
+    ],
+    "good": [
+      "자잘한 물건이 많은 일상 사진: 아침 식탁, 책상 한쪽, 발코니의 화분과 컵",
+      "주인공과 소지품이 함께 있는 장면: 바구니를 든 피크닉, 시장에서 장 본 사람과 산 물건",
+      "여행 중 작은 발견: 카페, 꽃집 입구, 길거리 노점"
+    ],
+    "poor": [
+      "장면 전체와 통일된 원근이 필요한 사진: 건물 전경, 도시 스카이라인, 웅장한 풍경",
+      "주인공 하나뿐이고 나눌 세부가 없는 사진: 단색 배경의 증명사진, 단색 제품 사진",
+      "반듯한 격자, 스티커 UI, 굵은 검은 윤곽, 어린이 만화 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر مشاهد الحياة الصغيرة",
+    "tagline": "يفكّك صورتك إلى مشهد رئيسي واحد وشذرات يومية صغيرة، مرتّبة كصفحة يوميات شخصية مسترخية.",
+    "look": "بدلاً من مشهد واحد كامل، تحصل على مجموعة رسوم صغيرة منفصلة: مشهد رئيسي يروي القصة، وتطفو حوله شذرات مختارة من الصورة، كحركة أو نبتة أو فنجان أو قطعة حلوى أو قطعة ملابس أو تفصيل معماري، بلا خلفية كاملة ولا منظور مشترك. الخطوط رفيعة مرتخية مرتعشة قليلاً، ملوّنة بالألوان المائية والأقلام الملوّنة وقليل من الباستيل الزيتي، تتجاوز الخطوط ولا تكتمل وتُظهر الورق وحبيبات القلم. الألوان هي أكثر ألوان الصورة إشراقاً، ملطّفة إلى أزرق صافٍ وفيروزي البحيرة وأخضر طري وأصفر زبدي ومشمشي ومرجاني وبنفسجي ناعم، على ورق أبيض دافئ مشرق. تتفاوت القطع في الحجم والارتفاع مع فراغ أبيض كثير، وتتخللها ملاحظات قصيرة بخط اليد وبضع نجوم صغيرة وشرطات ونقاط.",
+    "traits": [
+      "عنصر رئيسي واحد",
+      "شذرات يومية قليلة",
+      "تناثر طافٍ",
+      "خط يدوي مرتخٍ",
+      "ألوان مائية وأقلام وباستيل",
+      "فراغ ناضج"
+    ],
+    "good": [
+      "صور يومية غنية بالأشياء الصغيرة: مائدة فطور، زاوية مكتب، نباتات وفنجان على شرفة",
+      "عنصر رئيسي مع بعض المقتنيات: شخص في نزهة مع سلّة، متسوّق في سوق مع ما اشتراه",
+      "اكتشافات صغيرة في رحلة: مقهى، مدخل محل زهور، كشك في الشارع"
+    ],
+    "poor": [
+      "صور تحتاج إلى مشهد كامل ومنظور موحّد: بانوراما المباني، أفق المدن، المناظر الطبيعية الواسعة",
+      "صور بعنصر واحد لا تفاصيل فيه تُفكَّك: صور هوية على خلفية سادة، صور منتجات بلون واحد",
+      "طلب شبكة منتظمة أو واجهة ملصقات أو خطوط سوداء سميكة أو مظهر كرتوني للأطفال"
+    ]
+  }
+}
